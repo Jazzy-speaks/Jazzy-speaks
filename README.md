@@ -1,178 +1,356 @@
 <div align="center">
 
-<!-- ANIMATED HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Muhammad%20Talha%20Tariq&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Founder%20%40%20Codryx%20Solutions&descAlignY=58&descSize=15&descColor=a78bfa"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,45:111827,75:312e81,100:4c1d95&height=230&section=header&text=Muhammad%20Talha%20Tariq&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Data%20Scientist%20%7C%20Python%20Developer&descAlignY=56&descSize=17&descColor=c4b5fd"/>
 
-<!-- TYPING ANIMATION -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=650&lines=Building+Production-Ready+AI+Systems;RAG+%2B+Computer+Vision+%2B+Full-Stack+Dev;Founder+%40+Codryx+Solutions;Code.+Create.+Conquer." alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&pause=1200&color=A78BFA&center=true&vCenter=true&width=850&lines=Building+Intelligent+Systems+%F0%9F%A7%A0;Turning+Data+Into+Decisions+%F0%9F%93%8A;Python+%7C+Machine+Learning+%7C+Data+Science;Exploring+Deep+Learning+%26+AI+Engineering;Code.+Data.+Intelligence.+%E2%80%94+Repeat."/>
 
-<br/><br/>
+<br>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Jazzy-speaks&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Jazzy-speaks)
-[![GitHub followers](https://img.shields.io/github/followers/Jazzy-speaks?color=7c3aed&style=for-the-badge&logo=github&label=FOLLOWERS)](https://github.com/Jazzy-speaks)
+<img src="https://komarev.com/ghpvc/?username=Jazzy-speaks&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/github/followers/Jazzy-speaks?style=for-the-badge&color=7c3aed&label=FOLLOWERS&logo=github"/>
+<img src="https://img.shields.io/github/stars/Jazzy-speaks?style=for-the-badge&color=7c3aed&label=STARS&logo=github"/>
 
 </div>
 
 ---
 
-### `> whoami`
+# `01 // IDENTITY`
+
+<img align="right" width="330" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
 
 ```python
 class MuhammadTalhaTariq:
 
-    name       = "Muhammad Talha Tariq"
-    roles      = ["AI/ML Engineer", "Full-Stack Developer", "Founder @ Codryx Solutions"]
-    university = "Minhaj University Lahore — BSCS"
-    semester   = "6th Semester | CGPA: 3.32/4.0"
-    location   = "Lahore, Pakistan 🇵🇰"
-    languages  = ["Urdu", "English", "Punjabi"]
+    identity = {
+        "name": "Muhammad Talha Tariq",
+        "role": "Aspiring AI Engineer & Data Scientist",
+        "focus": [
+            "Artificial Intelligence",
+            "Machine Learning",
+            "Data Science",
+            "Python Development"
+        ],
+        "education": "BS Computer Science",
+        "university": "Minhaj University Lahore",
+        "semester": "6th Semester",
+        "location": "Lahore, Pakistan"
+    }
 
-    currently_building = [
-        "DODL — Outreach Intelligence Platform",
-        "Punjab Food Authority website redesign",
-        "Codryx Solutions"
+    currently_exploring = [
+        "Deep Learning",
+        "Model Deployment",
+        "Data Engineering",
+        "Advanced Python",
+        "AI-powered Applications"
     ]
 
-    interests = [
-        "Multilingual NLP & RAG pipelines",
-        "Computer vision & vision-language models",
-        "Reading novels, history & Islamic scholars",
-        "Photography"
-    ]
-
-    fun_fact = "Turns half-working ideas into shipped software ⚡"
+    philosophy = """
+    Learn deeply.
+    Build intelligently.
+    Keep evolving.
+    """
 ```
+
+<br clear="right"/>
+
+> **I don't just want to write code — I want to build systems that can learn, analyze, automate and solve real problems.**
 
 ---
 
-<!-- STATS -->
+# `02 // THE MISSION`
+
 <div align="center">
 
-## `⚡ GitHub Universe`
+### `DATA → KNOWLEDGE → INTELLIGENCE → IMPACT`
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jazzy-speaks&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jazzy-speaks&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9"/>
+</div>
+
+I'm a **Computer Science student and aspiring AI Engineer & Data Scientist** focused on transforming raw data and ideas into useful software systems.
+
+My journey revolves around:
+
+* 🧠 Artificial Intelligence & Machine Learning
+* 📊 Data Analysis & Data Science
+* 🐍 Python Development & Automation
+* 🔬 Deep Learning
+* 🌐 Full-Stack Application Development
+* 🚀 APIs, Deployment & Practical AI Systems
+* 📈 Business Intelligence & Data Visualization
+
+My long-term goal is to bridge the gap between **software engineering, data and intelligent systems**.
+
+---
+
+# `03 // TECH ARSENAL`
+
+<div align="center">
+
+### `LANGUAGES`
+
+<img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css&theme=dark"/>
+
+### `AI / ML / DATA`
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/NumPy-111827?style=for-the-badge&logo=numpy&logoColor=4D77CF"/>
+<img src="https://img.shields.io/badge/Pandas-111827?style=for-the-badge&logo=pandas&logoColor=150458"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-111827?style=for-the-badge&logo=scikit-learn&logoColor=F7931E"/>
+<img src="https://img.shields.io/badge/Power%20BI-111827?style=for-the-badge&logo=powerbi&logoColor=F2C811"/>
+
+### `BACKEND / DATABASE`
+
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,flask,dotnet,mysql,mongodb&theme=dark"/>
+
+### `WEB / DEVELOPMENT`
+
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,php&theme=dark"/>
+
+### `TOOLS / WORKFLOW`
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda,docker&theme=dark"/>
 
 </div>
 
 ---
 
-<!-- TECH STACK -->
-## `🛸 Tech Arsenal`
+# `04 // WHAT I BUILD`
+
+```text
+╔══════════════════════════════════════════════════════════════╗
+║                     BUILDING PIPELINE                         ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║  🐍 PYTHON ENGINEERING                                       ║
+║     Automation • APIs • Data Processing • Scripting          ║
+║                                                              ║
+║  🧠 ARTIFICIAL INTELLIGENCE                                  ║
+║     Machine Learning • Deep Learning • AI Applications        ║
+║                                                              ║
+║  📊 DATA SCIENCE                                             ║
+║     EDA • Cleaning • Visualization • Feature Engineering     ║
+║                                                              ║
+║  🔍 INTELLIGENT ANALYTICS                                    ║
+║     Patterns • Predictions • Insights • Decision Support     ║
+║                                                              ║
+║  🌐 APPLICATION ENGINEERING                                  ║
+║     Frontend • Backend • APIs • Databases                     ║
+║                                                              ║
+║  🚀 DEPLOYMENT & AUTOMATION                                  ║
+║     Practical Systems • APIs • Production-oriented Workflows ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+---
+
+# `05 // CURRENTLY BUILDING`
 
 <div align="center">
 
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
-![C++](https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=cplusplus&logoColor=00599C)
-![C](https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=A8B9CC)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![PHP](https://img.shields.io/badge/PHP-0d1117?style=for-the-badge&logo=php&logoColor=777BB4)
-![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=mysql&logoColor=4479A1)
-![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=1572B6)
-
-**AI / ML / Data Science**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-0d1117?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
-![Transformers](https://img.shields.io/badge/Transformers-0d1117?style=for-the-badge&logo=huggingface&logoColor=FFD21E)
-![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=for-the-badge&logo=langchain&logoColor=1C3C3C)
-![OpenCV](https://img.shields.io/badge/OpenCV-0d1117?style=for-the-badge&logo=opencv&logoColor=5C3EE8)
-![Streamlit](https://img.shields.io/badge/Streamlit-0d1117?style=for-the-badge&logo=streamlit&logoColor=FF4B4B)
-
-**Backend, Frontend & Data**
-
-![Flask](https://img.shields.io/badge/Flask-0d1117?style=for-the-badge&logo=flask&logoColor=ffffff)
-![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=339933)
-![Express](https://img.shields.io/badge/Express-0d1117?style=for-the-badge&logo=express&logoColor=ffffff)
-![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Prisma](https://img.shields.io/badge/Prisma-0d1117?style=for-the-badge&logo=prisma&logoColor=ffffff)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff)
-![Qt](https://img.shields.io/badge/Qt-0d1117?style=for-the-badge&logo=qt&logoColor=41CD52)
-![VS Code](https://img.shields.io/badge/VS%20Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
+|      🧠 Area      | 🔭 Current Direction                               |
+| :---------------: | :------------------------------------------------- |
+|       **AI**      | Intelligent applications & ML systems              |
+|  **Data Science** | Analysis, visualization & predictive modeling      |
+| **Deep Learning** | Neural networks & practical experimentation        |
+|     **Python**    | Automation, APIs & data workflows                  |
+|      **Web**      | Full-stack applications & AI-integrated interfaces |
+|   **Deployment**  | Taking models and applications beyond development  |
 
 </div>
 
 ---
 
-<!-- WHAT I BUILD -->
-## `🧠 What I Build`
+# `06 // SELECTED PROJECT UNIVERSE`
 
-```
-┌───────────────────────────────────────────────────────────────────┐
-│                                                                   │
-│  🤖  ML / AI Systems     →  Classification, VQA, VLM fine-tuning │
-│  🔗  RAG & LLM Apps      →  LangChain-based chatbots & agents    │
-│  🌐  Full-Stack Apps     →  React, Flask, Node.js/Express, PHP   │
-│  🎯  Computer Vision     →  YOLOv8, OpenCV, medical imaging      │
-│  🏢  Agency Delivery     →  Codryx Solutions — client software   │
-│                                                                   │
-└───────────────────────────────────────────────────────────────────┘
-```
+### 🧠 NeuroNest AI Focus OS
+
+An AI-focused productivity concept designed around intelligent workflows, focus management and personalized interaction.
+
+**Stack:** `React` `Tailwind` `Node.js` `MySQL` `AI`
 
 ---
 
-<!-- EXPERIENCE -->
-## `💼 Experience`
+### 🕷️ Web Scraping & Data Extraction
 
-| Role | Organization | Focus |
-|---|---|---|
-| Data Science Intern | DevelopersHub | Bank marketing classification (Naive Bayes + SHAP) • Customer segmentation (K-Means, PCA) • Streamlit dashboard |
+Python-based scraping systems for collecting structured information from web sources and transforming it into usable datasets.
 
----
-
-<!-- PROJECTS -->
-## `🚀 Selected Projects`
-
-| Project | What it does | Stack |
-|---|---|---|
-| **DODL Outreach Intelligence Platform** | Full-stack outreach management system — 19+ modules across Instagram, Facebook, WhatsApp, X, LinkedIn, TikTok & YouTube | React, Prisma (28-model schema) |
-| **WBCMor-VQA Fine-Tuning** | Fine-tuned Qwen2-VL-2B on a bilingual hematology visual question-answering dataset | PyTorch, Transformers, Colab |
-| **Punjab Food Authority Redesign** | Full front-to-back redesign of a government website with a Punjab agri-culture theme | React.js, Flask |
-| **VERAX** | Fake news & deepfake detection system | BiLSTM, CNN |
-| **Barkat Bank** | Full-stack banking web app with JWT authentication | Full-stack, JWT |
-| **PHONEDEX** | GSMArena phone-data scraper with a dark, terminal-style web UI | Flask, Python |
-
-*More on [GitHub →](https://github.com/Jazzy-speaks)*
+**Stack:** `Python` `Requests` `BeautifulSoup` `Pandas` `CSV`
 
 ---
 
-<!-- CODRYX -->
-## `🏢 Codryx Solutions`
+### 📊 Data Science & Analytics Projects
 
-**Code. Create. Conquer.** — a digital agency I founded for students, startups, and entrepreneurs who need real, working software without enterprise-agency overhead.
+Exploring real-world datasets through:
 
-`AI Chatbots` `Custom Websites` `Python Automation` `UI/UX & Graphic Design` `Data Cleaning & Excel Automation` `Resume/CV Development` `SEO Audits` `WordPress Setup`
+`Data Cleaning` → `EDA` → `Visualization` → `Feature Engineering` → `Machine Learning`
 
 ---
 
-<!-- CONNECT -->
-## `📡 Connect With Me`
+### 🌐 Full-Stack Web Applications
+
+Building practical applications with modern frontend, backend, API and database technologies.
+
+**Focus:** `React` `JavaScript` `Python` `FastAPI` `PHP` `MySQL` `MongoDB`
+
+---
+
+### 🎓 University & Outreach Systems
+
+Developing practical systems for university workflows, outreach, dashboards, automation and digital communication.
+
+---
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/muhammad-talha-tariq-7781942b6)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=ffffff)](https://muhammadtalhat.vercel.app)
-[![Gmail](https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:muhammadtalhakamboh2004@gmail.com)
-[![Facebook](https://img.shields.io/badge/Facebook-0d1117?style=for-the-badge&logo=facebook&logoColor=1877F2)](https://www.facebook.com/share/1DiWfg9eLW/)
-[![Instagram](https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/talhaaaa_.x)
+### `More systems are loading...`
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=Initializing+next+project...;Processing+new+ideas...;Training+new+skills...;Building+what's+next..."/>
 
 </div>
 
 ---
 
-<!-- FOOTER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
+# `07 // GITHUB UNIVERSE`
 
 <div align="center">
-  <sub>⚡ Crafted with code, caffeine & curiosity — <strong>Muhammad Talha Tariq</strong></sub>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Jazzy-speaks&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0b1020&title_color=a78bfa&icon_color=8b5cf6&text_color=e5e7eb"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jazzy-speaks&layout=compact&hide_border=true&bg_color=0b1020&title_color=a78bfa&text_color=e5e7eb"/>
+
+<br><br>
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=Jazzy-speaks&theme=dark&hide_border=true&background=0b1020&ring=a78bfa&fire=8b5cf6&currStreakLabel=a78bfa"/>
+
+</div>
+
+---
+
+# `08 // CONTRIBUTION CONSTELLATION`
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jazzy-speaks&bg_color=0b1020&color=a78bfa&line=8b5cf6&point=ffffff&area=true&hide_border=true"/>
+
+</div>
+
+---
+
+# `09 // DEVELOPMENT MINDSET`
+
+```text
+                 ┌──────────────────┐
+                 │      IDEA        │
+                 └────────┬─────────┘
+                          ↓
+                 ┌──────────────────┐
+                 │     RESEARCH     │
+                 └────────┬─────────┘
+                          ↓
+                 ┌──────────────────┐
+                 │      BUILD       │
+                 └────────┬─────────┘
+                          ↓
+                 ┌──────────────────┐
+                 │      TEST        │
+                 └────────┬─────────┘
+                          ↓
+                 ┌──────────────────┐
+                 │     DEPLOY       │
+                 └────────┬─────────┘
+                          ↓
+                 ┌──────────────────┐
+                 │     IMPROVE      │
+                 └──────────────────┘
+
+          ──────── NEVER STOP LEARNING ────────
+```
+
+### Principles I follow
+
+* **Build > Just Learn**
+* **Understand > Memorize**
+* **Consistency > Motivation**
+* **Real Problems > Tutorial Projects**
+* **Curiosity > Comfort**
+
+---
+
+# `10 // GITHUB TROPHIES`
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Jazzy-speaks&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7"/>
+
+</div>
+
+---
+
+# `11 // BEYOND CODE`
+
+Technology isn't my only interest.
+
+I also enjoy exploring:
+
+📷 **Photography & Visual Creativity**
+🎨 **Graphic Design & UI/UX**
+📚 **History & Intellectual Exploration**
+🌌 **Technology & Future Concepts**
+☕ **Late-night experimentation**
+
+> **Sometimes the best ideas appear when the world goes quiet.**
+
+---
+
+# `12 // CONNECT`
+
+<div align="center">
+
+<a href="https://github.com/Jazzy-speaks">
+<img src="https://img.shields.io/badge/GitHub-0b1020?style=for-the-badge&logo=github&logoColor=ffffff"/>
+</a>
+
+<a href="https://www.linkedin.com/in/muhammad-talha-tariq-7781942b6">
+<img src="https://img.shields.io/badge/LinkedIn-0b1020?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+</a>
+
+<a href="https://muhammadtalhat.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-0b1020?style=for-the-badge&logo=vercel&logoColor=ffffff"/>
+</a>
+
+<a href="mailto:muhammadtalhakamboh2004@gmail.com">
+<img src="https://img.shields.io/badge/Email-0b1020?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+</a>
+
+<a href="https://www.instagram.com/talhaaaa_.x">
+<img src="https://img.shields.io/badge/Instagram-0b1020?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
+</a>
+
+</div>
+
+---
+
+# `13 // FINAL TRANSMISSION`
+
+<div align="center">
+
+### **"The future belongs to those who build it."**
+
+<br>
+
+`AI` • `DATA` • `CODE` • `CURIOSITY`
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,45:312e81,75:111827,100:050816&height=140&section=footer"/>
+
+<sub>⚡ Engineered with curiosity, powered by Python & driven by ideas.</sub>
+
+<br>
+
+<sub><b>Muhammad Talha Tariq</b> · Aspiring AI Engineer & Data Scientist</sub>
+
 </div>
