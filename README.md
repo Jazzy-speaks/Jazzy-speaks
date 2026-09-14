@@ -1,19 +1,16 @@
 <div align="center">
-
 # `</>`
-
+ 
 # Muhammad **Talha Tariq**
-
-### AI Engineer · Data Scientist · Python Developer
-
-**Turning data into intelligence and ideas into real-world solutions.**
-
+ 
+### AI/ML Engineer · Full-Stack Developer · Founder @ Codryx Solutions
+ 
+**Turning data into intelligence and ideas into shipped software.**
+ 
 <br>
-
 <img src="https://github.com/Jazzy-speaks.png" width="130" height="130" style="border-radius:50%" />
-
 <br><br>
-
+ 
 <a href="https://muhammadtalhat.vercel.app">
 <img src="https://img.shields.io/badge/Portfolio-0B1020?style=for-the-badge&logo=vercel&logoColor=FFFFFF" />
 </a>
@@ -26,325 +23,240 @@
 <a href="https://github.com/Jazzy-speaks">
 <img src="https://img.shields.io/badge/GitHub-0B1020?style=for-the-badge&logo=github&logoColor=FFFFFF" />
 </a>
-
 <br><br>
-
+ 
 <img src="https://komarev.com/ghpvc/?username=Jazzy-speaks&style=flat-square&color=7C3AED&label=PROFILE+VIEWS" />
-
 </div>
-
 ---
-
+ 
 ## `01. ABOUT ME`
-
+ 
 <table>
 <tr>
 <td width="55%" valign="top">
-
 ### Hello, I'm Talha 👋
-
-I'm a **BS Computer Science student** focused on building intelligent, practical and data-driven software systems.
-
+ 
+I'm a **BS Computer Science student** and the founder of **Codryx Solutions**, focused on building intelligent, practical, and data-driven software systems.
+ 
 My primary interests are:
-
-- Artificial Intelligence
-- Machine Learning
-- Data Science
-- Python Development
-- Deep Learning
-- Data Analytics
-- Full-Stack Applications
-- APIs & Backend Systems
+ 
+- Artificial Intelligence & Machine Learning
+- Multilingual NLP & RAG pipelines
+- Computer Vision & Vision-Language Models
+- Full-Stack Web Development
+- Data Science & Analytics
 - Deployment & Automation
-
 I enjoy taking an idea from **concept → development → testing → deployment**.
-
+ 
 <br>
-
-> **I don't just want to write code.  
+> **I don't just want to write code.
 > I want to build systems that solve real problems.**
-
+ 
 </td>
-
 <td width="45%" valign="top">
-
 ### `PROFILE`
-
+ 
 | | |
 |---|---|
 | 🎓 **Degree** | BS Computer Science |
 | 🏫 **University** | Minhaj University Lahore |
-| 📚 **Semester** | 6th |
+| 📚 **Semester** | 6th (CGPA 3.32/4.0) |
 | 📍 **Location** | Lahore, Pakistan |
-| 🧠 **Focus** | AI & Data Science |
-| 🐍 **Primary Language** | Python |
-
+| 🧠 **Focus** | AI Engineering & Full-Stack Dev |
+| 🏢 **Founder** | Codryx Solutions |
+ 
 <br>
-
-### `CURRENTLY LEARNING`
-
-`Deep Learning`
-
-`Model Deployment`
-
-`Data Engineering`
-
-`Advanced Python`
-
-`AI Applications`
-
+### `CURRENTLY BUILDING`
+ 
+`DODL Outreach Platform`
+ 
+`Punjab Food Authority Redesign`
+ 
+`Codryx Solutions`
+ 
 </td>
 </tr>
 </table>
-
 ---
-
+ 
 ## `02. TECH STACK`
-
+ 
 <div align="center">
-
 ### Languages
-
-<img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css&theme=dark" />
-
+ 
+<img src="https://skillicons.dev/icons?i=python,cpp,c,js,php,html,css&theme=dark" />
 <br><br>
-
+ 
 ### AI · ML · Data Science
-
+ 
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark" />
-
 <br><br>
-
-<img src="https://img.shields.io/badge/NumPy-111827?style=for-the-badge&logo=numpy&logoColor=4D77CF" />
-<img src="https://img.shields.io/badge/Pandas-111827?style=for-the-badge&logo=pandas&logoColor=150458" />
-<img src="https://img.shields.io/badge/Scikit--Learn-111827?style=for-the-badge&logo=scikit-learn&logoColor=F7931E" />
-<img src="https://img.shields.io/badge/Power%20BI-111827?style=for-the-badge&logo=powerbi&logoColor=F2C811" />
-
+ 
+<img src="https://img.shields.io/badge/Scikit--Learn-111827?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" />
+<img src="https://img.shields.io/badge/Transformers-111827?style=for-the-badge&logo=huggingface&logoColor=FFD21E" />
+<img src="https://img.shields.io/badge/LangChain-111827?style=for-the-badge&logo=langchain&logoColor=1C3C3C" />
+<img src="https://img.shields.io/badge/Streamlit-111827?style=for-the-badge&logo=streamlit&logoColor=FF4B4B" />
 <br><br>
-
-### Backend · Databases
-
-<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,dotnet,mysql,mongodb&theme=dark" />
-
+ 
+### Backend · Frontend · Data
+ 
+<img src="https://skillicons.dev/icons?i=flask,nodejs,express,react,mysql&theme=dark" />
 <br><br>
-
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind,php&theme=dark" />
-
-<br><br>
-
+ 
 ### Tools & Workflow
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda,docker&theme=dark" />
-
+ 
+<img src="https://skillicons.dev/icons?i=git,github,vscode,qt&theme=dark" />
 </div>
-
 ---
-
+ 
 ## `03. WHAT I WORK ON`
-
+ 
 <table>
 <tr>
-
 <td width="33%" align="center">
-
 ### 🧠
-
+ 
 ### Machine Learning
-
-Building models for:
-
-`Prediction`
-
+ 
 `Classification`
-
-`Pattern Discovery`
-
+ 
+`VQA / VLM Fine-Tuning`
+ 
+`Model Evaluation`
+ 
 </td>
-
 <td width="33%" align="center">
-
-### 📊
-
-### Data Science
-
-Working with:
-
-`EDA`
-
-`Data Cleaning`
-
-`Visualization`
-
-`Insights`
-
+### 🔗
+ 
+### RAG & LLM Apps
+ 
+`LangChain Pipelines`
+ 
+`Chatbots & Agents`
+ 
+`Document Q&A`
+ 
 </td>
-
 <td width="33%" align="center">
-
-### 🔬
-
-### Deep Learning
-
-Exploring:
-
-`Neural Networks`
-
-`CNNs`
-
-`Model Training`
-
-`Experimentation`
-
+### 🎯
+ 
+### Computer Vision
+ 
+`YOLOv8`
+ 
+`OpenCV`
+ 
+`Medical Imaging`
+ 
 </td>
-
 </tr>
-
 <tr>
-
 <td width="33%" align="center">
-
-### 🤖
-
-### AI Applications
-
-Building intelligent applications that solve practical problems.
-
-</td>
-
-<td width="33%" align="center">
-
 ### 🌐
-
-### Web Development
-
-Modern interfaces with backend, APIs and databases.
-
+ 
+### Full-Stack Apps
+ 
+React, Flask, Node.js/Express & PHP — frontend to backend.
+ 
 </td>
-
 <td width="33%" align="center">
-
-### 🚀
-
-### Deployment
-
-Moving applications and models from development toward real-world use.
-
+### 📊
+ 
+### Data Science
+ 
+EDA, cleaning, modeling and dashboards from raw data.
+ 
 </td>
-
+<td width="33%" align="center">
+### 🏢
+ 
+### Agency Delivery
+ 
+Shipping client software through **Codryx Solutions**.
+ 
+</td>
 </tr>
 </table>
-
 ---
-
+ 
 ## `04. FEATURED PROJECTS`
-
-### `01` · NeuroNest AI Focus OS
-
-> An AI-focused productivity system built around intelligent workflows and personalized interaction.
-
-**Stack**
-
-`React` `Tailwind` `Node.js` `MySQL` `AI`
-
+ 
+### `01` · DODL — Outreach Intelligence Platform
+ 
+> Full-stack outreach management system spanning 19+ modules across Instagram, Facebook, WhatsApp, X, LinkedIn, TikTok & YouTube.
+ 
+**Stack** — `React` `Prisma (28-model schema)`
+ 
 ---
-
-### `02` · Data Science & Analytics
-
-> End-to-end exploration of real-world datasets through cleaning, analysis, visualization and machine learning.
-
-**Stack**
-
-`Python` `Pandas` `NumPy` `Scikit-Learn`
-
+ 
+### `02` · WBCMor-VQA Fine-Tuning
+ 
+> Fine-tuned Qwen2-VL-2B-Instruct on a bilingual hematology visual question-answering dataset.
+ 
+**Stack** — `PyTorch` `Transformers` `Colab`
+ 
 ---
-
-### `03` · Web Scraping & Data Extraction
-
-> Python-based tools for collecting, processing and transforming web data into structured datasets.
-
-**Stack**
-
-`Python` `Requests` `BeautifulSoup` `Pandas`
-
+ 
+### `03` · Punjab Food Authority Redesign
+ 
+> Full front-to-back redesign of a government website (pfa.gop.pk) with a Punjab agri-culture theme.
+ 
+**Stack** — `React.js` `Flask`
+ 
 ---
-
-### `04` · Full-Stack Applications
-
-> Practical web applications combining frontend interfaces, APIs, backend logic and databases.
-
-**Stack**
-
-`React` `JavaScript` `FastAPI` `PHP` `MySQL` `MongoDB`
-
+ 
+### `04` · VERAX
+ 
+> Fake news & deepfake detection system.
+ 
+**Stack** — `BiLSTM` `CNN`
+ 
 ---
-
-### `05` · University Outreach Dashboard
-
-> A dashboard concept for organizing outreach activities, communication channels and performance data.
-
-**Stack**
-
-`Python` `SQL` `Power BI` `Data Analytics`
-
+ 
+### `05` · Barkat Bank
+ 
+> Full-stack banking web application with JWT authentication.
+ 
+**Stack** — `Full-Stack` `JWT`
+ 
 ---
-
+ 
+### `06` · PHONEDEX
+ 
+> GSMArena phone-data scraper with a dark, terminal-style web UI.
+ 
+**Stack** — `Flask` `Python`
+ 
+*More on [GitHub →](https://github.com/Jazzy-speaks)*
+ 
+---
+ 
 ## `05. GITHUB ACTIVITY`
-
+ 
 <div align="center">
-
 <img
 src="https://github-readme-stats.vercel.app/api?username=Jazzy-speaks&show_icons=true&hide_border=true&bg_color=0B1020&title_color=A78BFA&icon_color=8B5CF6&text_color=E5E7EB&rank_icon=github"
 width="48%"
 />
-
+ 
 <img
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jazzy-speaks&layout=compact&hide_border=true&bg_color=0B1020&title_color=A78BFA&text_color=E5E7EB"
 width="48%"
 />
-
-<br><br>
-
-<img
-src="https://nirzak-streak-stats.vercel.app/?user=Jazzy-speaks&theme=dark&hide_border=true&background=0B1020&ring=A78BFA&fire=8B5CF6&currStreakLabel=A78BFA"
-width="70%"
-/>
-
+ 
 </div>
-
 ---
-
-## `06. CONTRIBUTION GRAPH`
-
+ 
+## `06. DEVELOPMENT PHILOSOPHY`
+ 
 <div align="center">
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=Jazzy-speaks&bg_color=0B1020&color=A78BFA&line=8B5CF6&point=FFFFFF&area=true&hide_border=true"
-width="95%"
-/>
-
-</div>
-
----
-
-## `07. DEVELOPMENT PHILOSOPHY`
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### `HOW I THINK`
-
 ```text
-Understand
-    ↓
-Research
-    ↓
-Build
-    ↓
-Test
-    ↓
-Deploy
-    ↓
-Improve
+Understand → Research → Build → Test → Deploy → Improve
+```
+ 
+</div>
+---
+ 
+<div align="center">
+  <sub>⚡ Crafted with code, caffeine & curiosity — <strong>Muhammad Talha Tariq</strong></sub>
+</div>
